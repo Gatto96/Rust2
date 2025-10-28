@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\Rust\ultimate_rust_crash_course-main\exercise\c_modules\target\debug\libanimal.rlib: C:\Users\user\Desktop\Rust\ultimate_rust_crash_course-main\exercise\c_modules\src\lib.rs C:\Users\user\Desktop\Rust\ultimate_rust_crash_course-main\exercise\c_modules\src\sound.rs
